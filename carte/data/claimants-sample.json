@@ -1,0 +1,15 @@
+{"type":"FeatureCollection","features":[
+
+
+{"type":"Feature","id":"1","geometry": {"type":"Point","coordinates":[3.1020108,50.626879]},"properties": {"id":"1"}},
+{"type":"Feature","id":"2, 3","geometry": {"type":"Point","coordinates":[3.1060237,50.6291783]},"properties": {"id":"2, 3"}},
+{"type":"Feature","id":"4 à 10","geometry": {"type":"Point","coordinates":[3.1043487,50.6259023]},"properties": {"id":"4 à 10"}},
+{"type":"Feature","id":"11 à 47","geometry": {"type":"Point","coordinates":[3.1032318,50.6242386]},"properties": {"id":"11 à 47"}},
+{"type":"Feature","id":"48,49,52","geometry": {"type":"Point","coordinates":[3.1023527,50.6243105]},"properties": {"id":"48,49,52"}},
+{"type":"Feature","id":"50,51","geometry": {"type":"Point","coordinates":[3.1084833,50.6281334]},"properties": {"id":"50,51"}},
+{"type":"Feature","id":"53 à 64","geometry": {"type":"Point","coordinates":[3.1085088,50.6281351]},"properties": {"id":"53 à 64"}},
+{"type":"Feature","id":"65 à 69","geometry": {"type":"Point","coordinates":[]},"properties": {"id":"65 à 69"}}
+
+
+
+]}
