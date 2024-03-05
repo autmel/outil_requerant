@@ -106,7 +106,10 @@
 		
 		// source the data in geojson format (in ./data folder)
 		
-		var sUrlGeoClaimants = "http://localhost:8000/data/claimants.json";
+		var baseUrl = window.location.protocol + "//" + window.location.host + "/outil_requerant/carte";
+		//var baseUrl = "http://localhost:8000";
+		
+		var sUrlGeoClaimants = baseUrl+ "/data/claimants.json";
 		var sUrlGeoClaimantLayer = new L.GeoJSON.AJAX(sUrlGeoClaimants, myLayerOptions).addTo(isMap);
 		
 	</script>
